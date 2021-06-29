@@ -1,7 +1,7 @@
-# BalancerPools_Model - Math Challenge
+# BalancerPools - AMM Explorations
 
-The repo provides some exercises to gain intuition of the core algorithm of Balancer Pools: the Value Function.
-It was created from the TE Academy Balancer Simulations research group in June 2021. Many thanks to all contributors!
+This repo provides some exercises to gain intuition of the core algorithm of Balancer Pools: the Value Function.
+It was created by members of the TE Academy Balancer Simulations research group in June 2021. Many thanks to all contributors!
 
 We've developed the notebooks in several sessions discussing the value function in depth. Video recordings of these sessions are available here (link to be added)
 
